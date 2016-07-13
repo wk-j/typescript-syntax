@@ -5,7 +5,7 @@
 - [ ] Easier module declarations
 - [x] Expression operators
 - [x] Type widening
-- [-] Tagged union types (not working ...)
+- [x] Tagged union types (not working ...)
 
 ## Links
 
