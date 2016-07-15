@@ -7,6 +7,13 @@
 - [x] Type widening
 - [x] Tagged union types (not working ...)
 
+## Tips
+
+- [x] Return an object literal
+- [x] String enums
+- [x] Nominal typing
+- [x] Stateful functions
+
 ## Links
 
 - https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta
