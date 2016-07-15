@@ -15,6 +15,9 @@
 - [x] Stateful functions
 - [x] Bind is bad
 - [x] Safe to pass around
+- [x] Curring
+- [x] Type instantiation for generics
+- [x] Lazy object literal initialization
 
 ## Links
 
