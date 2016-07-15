@@ -13,6 +13,8 @@
 - [x] String enums
 - [x] Nominal typing
 - [x] Stateful functions
+- [x] Bind is bad
+- [x] Safe to pass around
 
 ## Links
 
