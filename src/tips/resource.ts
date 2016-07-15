@@ -1,1 +1,0 @@
-// https://basarat.gitbooks.io/typescript
