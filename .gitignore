@@ -1,3 +1,4 @@
 *.map
 *.js
 tools
+node_modules

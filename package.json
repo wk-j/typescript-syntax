@@ -1,0 +1,11 @@
+{
+  "name": "try-typescript-20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Somnuk Wongkhan <somnuk.wk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^1.7.0",
+    "typescript": "next"
+  }
+}

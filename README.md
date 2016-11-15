@@ -5,6 +5,7 @@
 - [Features/NoneNullable](src/Features/NoneNullable)
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)
+- [Tests/ArgumentsOrder](src/Tests/ArgumentsOrder)
 - [Tips/BindIsBad](src/Tips/BindIsBad)
 - [Tips/Currying](src/Tips/Currying)
 - [Tips/LazyObjectLiteralInitialization](src/Tips/LazyObjectLiteralInitialization)

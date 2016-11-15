@@ -3,5 +3,13 @@
     "files.exclude": {
         "**/*.map": true,
         "**/*.js": true
+    },
+    "saveAndRun": {
+        "commands": [
+            {
+                "match": "\\.ts$",
+                "cmd": "node_modules/ts-node/dist/bin.js ${relativeFile}"
+            }
+        ]
     }
 }
