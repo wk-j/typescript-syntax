@@ -2,6 +2,7 @@
 
 - [Features/ControlFlowAnalysis](src/Features/ControlFlowAnalysis)
 - [Features/ExpressionOperators](src/Features/ExpressionOperators)
+- [Features/MapedType](src/Features/MapedType)
 - [Features/NoneNullable](src/Features/NoneNullable)
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)

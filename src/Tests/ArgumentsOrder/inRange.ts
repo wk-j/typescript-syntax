@@ -1,12 +1,21 @@
+
 var e = console.log;
 
-function inRange1(v, min, max) {
-    return v >= min && v <= max;
+var thaiRange1: [number, number] = [10, 20]
+var thaiRange2 = { start: 10, end: 20 }
+
+function inRange1(v, start, end) {
+    return v >= start && v <= end;
 }
 
-function inRange2(v, [min, max]) {
-    return inRange1(v, min, max);
+function inRange2(v, [start, end]) {
+    return v >= start && v <= end;
 }
 
-e(inRange1(10, 10, 20) == true);
-e(inRange2(10, [10, 20]) == true);
+function isThai1(v) {
+    return inRange2(v, thaiRange1);
+}
+
+function isThai2(v, obj: { start, end}) {
+    return inRange1(v, obj.start, obj.end);
+}

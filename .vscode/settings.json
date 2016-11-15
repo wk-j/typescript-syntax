@@ -4,6 +4,7 @@
         "**/*.map": true,
         "**/*.js": true
     },
+    "typescript.tsdk": "./node_modules/typescript/lib",
     "saveAndRun": {
         "commands": [
             {
