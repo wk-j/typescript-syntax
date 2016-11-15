@@ -1,19 +1,19 @@
 ## Try TypeScript
 
-- [ControlFlowAnalysis](src/ControlFlowAnalysis)
-- [ExpressionOperators](src/ExpressionOperators)
-- [NoneNullable](src/NoneNullable)
-- [TaggedUnionTypes](src/TaggedUnionTypes)
-- [BindIsBad](src/Tips/BindIsBad)
-- [Currying](src/Tips/Currying)
-- [LazyObjectLiteralInitialization](src/Tips/LazyObjectLiteralInitialization)
-- [NominalTyping](src/Tips/NominalTyping)
-- [ReturnObjectLiteral](src/Tips/ReturnObjectLiteral)
-- [SafeToPassAround](src/Tips/SafeToPassAround)
-- [StatefulFunctions](src/Tips/StatefulFunctions)
-- [StringEnums](src/Tips/StringEnums)
-- [TypeInstantiationForGenerics](src/Tips/TypeInstantiationForGenerics)
-- [TypeWidening](src/TypeWidening)
+- [Features/ControlFlowAnalysis](src/Features/ControlFlowAnalysis)
+- [Features/ExpressionOperators](src/Features/ExpressionOperators)
+- [Features/NoneNullable](src/Features/NoneNullable)
+- [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
+- [Features/TypeWidening](src/Features/TypeWidening)
+- [Tips/BindIsBad](src/Tips/BindIsBad)
+- [Tips/Currying](src/Tips/Currying)
+- [Tips/LazyObjectLiteralInitialization](src/Tips/LazyObjectLiteralInitialization)
+- [Tips/NominalTyping](src/Tips/NominalTyping)
+- [Tips/ReturnObjectLiteral](src/Tips/ReturnObjectLiteral)
+- [Tips/SafeToPassAround](src/Tips/SafeToPassAround)
+- [Tips/StatefulFunctions](src/Tips/StatefulFunctions)
+- [Tips/StringEnums](src/Tips/StringEnums)
+- [Tips/TypeInstantiationForGenerics](src/Tips/TypeInstantiationForGenerics)
 
 ## Resources
 

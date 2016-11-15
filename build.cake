@@ -37,9 +37,10 @@ Task("Build-Readme").Does(() => {
         System.IO.File.WriteAllText(mdFile, newText);
 
         var dirName = file.Directory.Name;
+        var parent = file.Directory.Parent.Name;
         var relative = file.Directory.FullName.Replace(currentDir, "").TrimStart('/');
 
-        var link = $"- [{dirName}]({relative})";
+        var link = $"- [{parent}/{dirName}]({relative})";
         links.Add(link);
     });
 
