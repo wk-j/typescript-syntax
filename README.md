@@ -1,27 +1,22 @@
-## Try TypeScript 2.0
+## Try TypeScript
 
-- [x] Non-nullable types
-- [x] Control flow analysis for types
-- [ ] Easier module declarations
-- [x] Expression operators
-- [x] Type widening
-- [x] Tagged union types (not working ...)
+- [ControlFlowAnalysis](src/ControlFlowAnalysis)
+- [ExpressionOperators](src/ExpressionOperators)
+- [NoneNullable](src/NoneNullable)
+- [TaggedUnionTypes](src/TaggedUnionTypes)
+- [BindIsBad](src/Tips/BindIsBad)
+- [Currying](src/Tips/Currying)
+- [LazyObjectLiteralInitialization](src/Tips/LazyObjectLiteralInitialization)
+- [NominalTyping](src/Tips/NominalTyping)
+- [ReturnObjectLiteral](src/Tips/ReturnObjectLiteral)
+- [SafeToPassAround](src/Tips/SafeToPassAround)
+- [StatefulFunctions](src/Tips/StatefulFunctions)
+- [StringEnums](src/Tips/StringEnums)
+- [TypeInstantiationForGenerics](src/Tips/TypeInstantiationForGenerics)
+- [TypeWidening](src/TypeWidening)
 
-## Tips
-
-- [x] Return an object literal
-- [x] String enums
-- [x] Nominal typing
-- [x] Stateful functions
-- [x] Bind is bad
-- [x] Safe to pass around
-- [x] Curring
-- [x] Type instantiation for generics
-- [x] Lazy object literal initialization
-
-## Links
+## Resources
 
 - https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta
 - https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript
 - https://basarat.gitbooks.io/typescript
-
