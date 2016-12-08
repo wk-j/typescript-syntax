@@ -33,6 +33,7 @@ Task("Build-Readme").Does(() => {
             .Replace("{{fileName}}", name)
             .Replace("{{source}}", source);
 
+
         var mdFile = System.IO.Path.Combine(file.Directory.FullName, "README.md");
         System.IO.File.WriteAllText(mdFile, newText);
 

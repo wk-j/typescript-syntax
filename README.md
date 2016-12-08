@@ -3,6 +3,7 @@
 - [Features/AsyncFunctions](src/Features/AsyncFunctions)
 - [Features/ControlFlowAnalysis](src/Features/ControlFlowAnalysis)
 - [Features/ExpressionOperators](src/Features/ExpressionOperators)
+- [Features/KeyofAndLookupTypes](src/Features/KeyofAndLookupTypes)
 - [Features/MapedType](src/Features/MapedType)
 - [Features/NoneNullable](src/Features/NoneNullable)
 - [Features/ObjectRestAndSpread](src/Features/ObjectRestAndSpread)
