@@ -24,12 +24,12 @@ function area(s: Shape) {
     // according to the value of the discriminant property, thus allowing the other properties
     // of that variant to be accessed without a type assertion.
     switch (s.kind) {
-        /*
         case "square": return s.size * s.size;
         case "rectangle": return s.width * s.height;
         case "circle": return Math.PI * s.radius * s.radius;
-        */
     }
 }
 
+var e = console.log;
+e(area({kind: "circle", radius: 10}))
 ```

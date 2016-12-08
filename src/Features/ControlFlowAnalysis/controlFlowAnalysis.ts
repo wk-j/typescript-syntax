@@ -13,7 +13,6 @@ class Item {
     id: number
 }
 
-
 function test() {
     let bestItem: Item;
     let items: Item[] = [ { id: 100 }];
