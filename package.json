@@ -6,6 +6,10 @@
   "license": "MIT",
   "devDependencies": {
     "ts-node": "^1.7.0",
-    "typescript": "next"
+    "typescript": "^2.1.5"
+  },
+  "dependencies": {
+    "typescript-dotnet-es6": "^4.7.14",
+    "typescript-dotnet-umd": "^4.7.14"
   }
 }

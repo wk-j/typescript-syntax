@@ -10,6 +10,7 @@
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)
 - [Tests/ArgumentsOrder](src/Tests/ArgumentsOrder)
+- [Tests/List](src/Tests/List)
 - [Tests/Unsound](src/Tests/Unsound)
 - [Tips/BindIsBad](src/Tips/BindIsBad)
 - [Tips/Currying](src/Tips/Currying)
