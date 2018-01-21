@@ -1,14 +1,19 @@
 {
     "compilerOptions": {
-        "lib": ["es6", "dom"],
+        "lib": [
+            "es6",
+            "dom"
+        ],
         "target": "ES6",
         "module": "commonjs",
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "moduleResolution": "node",
         "removeComments": false,
-        "noImplicitAny": false,
-        "strictNullChecks": true
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strict": true,
+        "strictFunctionTypes": true
     },
     "exclude": [
         "node_modules",

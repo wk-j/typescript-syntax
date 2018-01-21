@@ -3,14 +3,5 @@
     "files.exclude": {
         "**/*.map": true,
         "**/*.js": true
-    },
-    "typescript.tsdk": "./node_modules/typescript/lib",
-    "saveAndRun": {
-        "commands": [
-            {
-                "match": "\\.ts$",
-                "cmd": "node_modules/ts-node/dist/bin.js ${relativeFile}"
-            }
-        ]
     }
 }
