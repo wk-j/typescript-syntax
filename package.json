@@ -2,6 +2,8 @@
   "name": "try-typescript-20",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Somnuk Wongkhan <somnuk.wk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.0.34"
+  }
 }

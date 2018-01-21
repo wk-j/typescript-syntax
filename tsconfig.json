@@ -13,6 +13,7 @@
         "noImplicitAny": false,
         "strictNullChecks": true,
         "strict": true,
+        "jsx": "react",
         "strictFunctionTypes": true
     },
     "exclude": [
