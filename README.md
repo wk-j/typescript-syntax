@@ -7,6 +7,7 @@
 - [Features/MapedType](src/Features/MapedType)
 - [Features/NoneNullable](src/Features/NoneNullable)
 - [Features/ObjectRestAndSpread](src/Features/ObjectRestAndSpread)
+- [Features/StrictFunctionType](src/Features/StrictFunctionType)
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)
 - [Tests/ArgumentsOrder](src/Tests/ArgumentsOrder)

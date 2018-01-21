@@ -10,7 +10,7 @@
         "experimentalDecorators": true,
         "moduleResolution": "node",
         "removeComments": false,
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         "strictNullChecks": true,
         "strict": true,
         "strictFunctionTypes": true
