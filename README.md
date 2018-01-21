@@ -1,5 +1,7 @@
 ## Try TypeScript 2.0 and 2.1
 
+- [26/StrictFunctionType](src/Features/26/StrictFunctionType)
+- [26/SuppressError](src/Features/26/SuppressError)
 - [Features/AsyncFunctions](src/Features/AsyncFunctions)
 - [Features/ControlFlowAnalysis](src/Features/ControlFlowAnalysis)
 - [Features/ExpressionOperators](src/Features/ExpressionOperators)
@@ -7,7 +9,7 @@
 - [Features/MapedType](src/Features/MapedType)
 - [Features/NoneNullable](src/Features/NoneNullable)
 - [Features/ObjectRestAndSpread](src/Features/ObjectRestAndSpread)
-- [Features/StrictFunctionType](src/Features/StrictFunctionType)
+- [Features/TagedTemplate](src/Features/TagedTemplate)
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)
 - [Tests/ArgumentsOrder](src/Tests/ArgumentsOrder)
