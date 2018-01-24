@@ -2,14 +2,9 @@
   "name": "try-typescript-20",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Somnuk Wongkhan <somnuk.wk@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ts-node": "^1.7.0",
-    "typescript": "^2.1.5"
+    "@types/react": "^16.0.34"
   },
-  "dependencies": {
-    "typescript-dotnet-es6": "^4.7.14",
-    "typescript-dotnet-umd": "^4.7.14"
-  }
+  "dependencies": {}
 }

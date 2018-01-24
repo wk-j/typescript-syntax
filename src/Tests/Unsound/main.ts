@@ -2,13 +2,13 @@ enum EventType { Mouse, Keyboard }
 
 interface MyEvent { timestamp: number; }
 
-interface MyMouseEvent extends MyEvent { 
+interface MyMouseEvent extends MyEvent {
     x: number;
     y: number;
 }
 
-interface KeyEvent extends MyEvent { 
-    keyCode: number 
+interface KeyEvent extends MyEvent {
+    keyCode: number
 }
 
 // Unsound
