@@ -7,7 +7,7 @@
         "experimentalDecorators": true,
         "moduleResolution": "node",
         "removeComments": false,
-        "noImplicitAny": false,
+        "noImplicitAny": true,
         "strictNullChecks": true
     },
     "exclude": [
