@@ -4,7 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+<<<<<<< HEAD
     "@types/react": "^16.0.34",
     "typescript": "^2.9.1"
   }
+=======
+    "@types/react": "^16.0.34"
+  },
+  "dependencies": {}
+>>>>>>> 72bf43eb623f5530b5b07255299f06f879e2d37b
 }

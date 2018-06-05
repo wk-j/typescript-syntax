@@ -4,22 +4,24 @@
             "es6",
             "dom"
         ],
+<<<<<<< HEAD
         "resolveJsonModule": true,
+=======
+        "jsx": "react",
+>>>>>>> 72bf43eb623f5530b5b07255299f06f879e2d37b
         "target": "ES6",
         "module": "commonjs",
-        "emitDecoratorMetadata": true,
-        "strictPropertyInitialization": true,
-        "experimentalDecorators": true,
         "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
         "removeComments": false,
         "noImplicitAny": false,
-        "strictNullChecks": true,
         "strict": true,
-        "jsx": "react",
-        "strictFunctionTypes": true
+        // "strictPropertyInitialization": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true
     },
     "exclude": [
-        "node_modules",
-        "jspm_packages"
+        "node_modules"
     ]
 }
