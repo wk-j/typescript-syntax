@@ -1,3 +1,6 @@
+## T.ts
+
+```typescript
 export function T() {
     let obj = {
         a: 0,
@@ -11,3 +14,4 @@ export function T() {
 }
 
 T();
+```
