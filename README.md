@@ -1,6 +1,5 @@
 ## Try TypeScript 2.0 and 2.1
 
-- [TypeScriptSyntax/src](src)
 - [Bugs/Spread](src/Bugs/Spread)
 - [20/NeverType](src/Features/20/NeverType)
 - [21/KeyofAndLookupTypes](src/Features/21/KeyofAndLookupTypes)
@@ -8,6 +7,7 @@
 - [26/SuppressError](src/Features/26/SuppressError)
 - [27/StrickClassInitialization](src/Features/27/StrickClassInitialization)
 - [28/Conditions](src/Features/28/Conditions)
+- [29/ImportJsonModule](src/Features/29/ImportJsonModule)
 - [29/Keyof](src/Features/29/Keyof)
 - [29/ResolveJsonModule](src/Features/29/ResolveJsonModule)
 - [Features/AsyncFunctions](src/Features/AsyncFunctions)
@@ -20,6 +20,7 @@
 - [Features/TagedTemplate](src/Features/TagedTemplate)
 - [Features/TaggedUnionTypes](src/Features/TaggedUnionTypes)
 - [Features/TypeWidening](src/Features/TypeWidening)
+- [TypeScriptSyntax/src](src)
 - [Tests/ArgumentsOrder](src/Tests/ArgumentsOrder)
 - [Tests/KeyName](src/Tests/KeyName)
 - [Tests/Let](src/Tests/Let)

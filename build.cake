@@ -15,9 +15,10 @@ Task("Clean").Does(() => {
 
 Task("Build-Readme").Does(() => {
     var links = new List<string>();
-    
+
     var files = new System.IO.DirectoryInfo("./src")
         .GetFiles("*.ts", System.IO.SearchOption.AllDirectories)
+        .OrderBy(x => x.FullName)
         .GroupBy(x => x.Directory.FullName)
         .Select(x => x.FirstOrDefault())
         .ToList();

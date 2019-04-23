@@ -1,3 +1,4 @@
+
 export function T() {
     let obj = {
         a: 0,
