@@ -1,4 +1,4 @@
-## Try TypeScript 2.0 and 2.1
+## TypeScript
 
 - [Bugs/Spread](src/Bugs/Spread)
 - [20/NeverType](src/Features/20/NeverType)
@@ -37,10 +37,3 @@
 - [Tips/StatefulFunctions](src/Tips/StatefulFunctions)
 - [Tips/StringEnums](src/Tips/StringEnums)
 - [Tips/TypeInstantiationForGenerics](src/Tips/TypeInstantiationForGenerics)
-
-## Resources
-
-- https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1
-- https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta
-- https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript
-- https://basarat.gitbooks.io/typescript
