@@ -1,11 +1,11 @@
 {
-  "name": "try-typescript-20",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^11.13.7",
-    "@types/react": "^16.0.34",
-    "typescript": "^2.9.2"
-  }
+    "name": "try-typescript-20",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^11.13.7",
+        "@types/react": "^16.0.34",
+        "typescript": "^3.5.1"
+    }
 }
