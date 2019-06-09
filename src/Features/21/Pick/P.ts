@@ -3,4 +3,5 @@ type Task = {
     name: string
 }
 
-type PP = Pick<Task, "id">
+type PP1 = Pick<Task, "id">
+type PP2 = Partial<Task>
