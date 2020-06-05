@@ -14,5 +14,6 @@ type TypeB = TypeA & { address: string }
 let b: TypeB = {
     name: "wk",
     age: 15,
-    address: "Bangoko"
+    address: "Bangokok"
 }
+
