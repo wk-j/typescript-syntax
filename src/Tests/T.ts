@@ -18,16 +18,14 @@ namespace TK {
         optionB: string
     }
 
-    type Kind = {
+    type Options = {
         A: { input: InputA, options: OptionA },
         B: { input: InputB, options: OptionB }
     }
 
-    type Key = <T extends keyof Kind>() => T
+    type Return = <T extends keyof Options>(input: { type: T } & Options[T]["input"]) => Options[T]["options"]
 
-    type KReturn = <T extends keyof Kind>(input: { type: T } & Kind[T]["input"]) => Kind[T]["options"]
-
-    let process: KReturn = (value) => {
+    let process: Return = (value) => {
         if (value.type == "A") {
             return { optionA: "A" }
         } else {
